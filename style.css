@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Lighthaus;
+    src: url("Lighthaus.ttf");
+}
+
+body {
+    font-size: 23px;
+    font-family: Lighthaus;
+}
+
+strong {
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: green;
+    color: #d12631;
+}
