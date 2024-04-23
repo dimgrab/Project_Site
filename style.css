@@ -4,7 +4,7 @@
 }
 
 body {
-    font-size: 7em;           // Проверить на других устройствах
+    font-size: 2em;           // Проверить на других устройствах
     font-family: Lighthaus;
     background-image: url('background.jpg');
     background-size: contain;
@@ -18,12 +18,11 @@ i {
 	color: #1E1E4A;
 
 blockquote {
-       	margin: 1.5em 3em 0;
+       	margin: 0;
 }
 
 p {
-	margin-top: 0;
-	margin-bottom: 	1.5em;            
+	margin: 0;
 }
 
 h1, h2 {
