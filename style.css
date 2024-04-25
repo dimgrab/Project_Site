@@ -6,7 +6,7 @@
 body {
     font-size: 2em;           // Проверить на других устройствах
     font-family: Lighthaus;
-    background-image: url('background.jpg');
+    background-image: url("background.jpg");
     background-size: contain;
 }
 
@@ -40,7 +40,7 @@ h1, h2 {
 figure {
 	display: flex;
 	justify-content: center;
-	background-color: white;
+	background-image: url("figure_background");
 }
 
 img {
