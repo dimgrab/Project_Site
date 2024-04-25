@@ -40,7 +40,7 @@ h1, h2 {
 figure {
 	display: flex;
 	justify-content: center;
-	background-image: url("figure_background");
+	background-image: url("figure_background.jpg");
 }
 
 img {
