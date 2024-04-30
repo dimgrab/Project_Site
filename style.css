@@ -41,7 +41,7 @@ figure {
 	display: flex;
 	width: 80%;
 	justify-content: center;
-	background-image: url("figure_background.jpg");
+	background-image: url("figure_background.png");
 }
 
 img {
