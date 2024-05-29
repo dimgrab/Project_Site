@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   sodipodi:docname="icon.svg"
+   sodipodi:docname="icon0.svg"
    inkscape:export-filename="Project.png"
    inkscape:export-xdpi="890.02393"
    inkscape:export-ydpi="890.02393"
@@ -18,7 +18,7 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#000376"
+     pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
@@ -28,14 +28,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="22.627417"
-     inkscape:cx="23.710174"
-     inkscape:cy="17.103145"
+     inkscape:cx="23.003067"
+     inkscape:cy="14.363106"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g5247" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2">
     <linearGradient
@@ -48,59 +48,68 @@
     </linearGradient>
   </defs>
   <g
-     id="g5247"
-     transform="translate(-0.12900787,1.5011372)">
-    <rect
-       style="fill:#008000;fill-rule:evenodd;stroke:#323232;stroke-width:0.218502;stroke-opacity:0.990881;paint-order:stroke fill markers"
-       id="rect292-6"
-       width="3.4248149"
-       height="3.4248149"
-       x="-0.73460191"
-       y="-8.0202551"
-       inkscape:transform-center-x="-0.030946627"
-       inkscape:transform-center-y="0.010071673"
-       transform="matrix(-0.83809687,0.54552143,-0.83809687,-0.54552143,0,0)" />
-    <rect
-       style="fill:#69491e;fill-opacity:1;fill-rule:evenodd;stroke-width:0.22833501;stroke-opacity:1;paint-order:stroke fill markers;stroke:none;stroke-dasharray:none"
-       id="rect305"
-       width="3.6147623"
-       height="1.739313"
-       x="1.5910537"
-       y="2.9402266"
-       ry="0.010104329"
-       transform="matrix(0.83781387,0.54595596,0,1,0.12900787,-1.5011372)" />
-    <rect
-       style="display:inline;fill:#69491e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.228073;stroke-dasharray:none;stroke-opacity:0.992157;paint-order:stroke fill markers"
-       id="rect915"
-       width="3.6670868"
-       height="1.7553804"
-       x="5.1566186"
-       y="-10.33272"
-       ry="0.010197672"
-       transform="matrix(0.83973829,-0.54299133,0,-1,0.12900787,-1.5011372)" />
-    <rect
-       style="fill:#008000;fill-rule:evenodd;stroke:#323232;stroke-width:0.21856382;stroke-opacity:0.990881;paint-order:stroke fill markers;stroke-dasharray:none"
-       id="rect292"
-       width="3.4248149"
-       height="3.4248149"
-       x="-2.2597151"
-       y="-6.5062084"
-       inkscape:transform-center-x="-0.030946627"
-       inkscape:transform-center-y="0.010071673"
-       transform="matrix(-0.83809687,0.54552143,-0.83809687,-0.54552143,0,0)" />
-    <path
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#313131;stroke-width:0.0899999;stroke-dasharray:none;stroke-opacity:0.992157;paint-order:stroke fill markers"
-       d="m 7.5307032,2.3107945 0.011692,1.73057 -3.0518838,1.9644312 -0.011692,-1.7305703 0.035079,1.718877 -3.0635769,-1.9410447 0.011693,-1.7539565"
-       id="path3853" />
-  </g>
-  <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Слой 2" />
+     inkscape:label="Слой 2">
+    <rect
+       style="fill:#000376;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0900622;paint-order:stroke fill markers"
+       id="rect2031"
+       width="8.4657621"
+       height="8.4540682"
+       x="0"
+       y="0.011693042"
+       inkscape:label="Фон" />
+  </g>
   <g
      inkscape:label="Слой 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <g
+       id="g5247"
+       transform="translate(-0.12900787,1.5011372)">
+      <rect
+         style="fill:#008000;fill-rule:evenodd;stroke:#323232;stroke-width:0.218502;stroke-opacity:0.990881;paint-order:stroke fill markers"
+         id="rect292-6"
+         width="3.4248149"
+         height="3.4248149"
+         x="-0.73460191"
+         y="-8.0202551"
+         inkscape:transform-center-x="-0.030946627"
+         inkscape:transform-center-y="0.010071673"
+         transform="matrix(-0.83809687,0.54552143,-0.83809687,-0.54552143,0,0)" />
+      <rect
+         style="fill:#69491e;fill-opacity:1;fill-rule:evenodd;stroke-width:0.22833501;stroke-opacity:1;paint-order:stroke fill markers;stroke:none;stroke-dasharray:none"
+         id="rect305"
+         width="3.6147623"
+         height="1.739313"
+         x="1.5910537"
+         y="2.9402266"
+         ry="0.010104329"
+         transform="matrix(0.83781387,0.54595596,0,1,0.12900787,-1.5011372)" />
+      <rect
+         style="display:inline;fill:#69491e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.228073;stroke-dasharray:none;stroke-opacity:0.992157;paint-order:stroke fill markers"
+         id="rect915"
+         width="3.6670868"
+         height="1.7553804"
+         x="5.1566186"
+         y="-10.33272"
+         ry="0.010197672"
+         transform="matrix(0.83973829,-0.54299133,0,-1,0.12900787,-1.5011372)" />
+      <rect
+         style="fill:#008000;fill-rule:evenodd;stroke:#323232;stroke-width:0.21856382;stroke-opacity:0.990881;paint-order:stroke fill markers;stroke-dasharray:none"
+         id="rect292"
+         width="3.4248149"
+         height="3.4248149"
+         x="-2.2597151"
+         y="-6.5062084"
+         inkscape:transform-center-x="-0.030946627"
+         inkscape:transform-center-y="0.010071673"
+         transform="matrix(-0.83809687,0.54552143,-0.83809687,-0.54552143,0,0)" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#313131;stroke-width:0.0899999;stroke-dasharray:none;stroke-opacity:0.992157;paint-order:stroke fill markers"
+         d="m 7.5307032,2.3107945 0.011692,1.73057 -3.0518838,1.9644312 -0.011692,-1.7305703 0.035079,1.718877 -3.0635769,-1.9410447 0.011693,-1.7539565"
+         id="path3853" />
+    </g>
     <ellipse
        style="fill:#ffd42a;fill-rule:evenodd;stroke:none;stroke-width:0.302611;stroke-opacity:0;paint-order:stroke fill markers"
        id="path6526"
